@@ -1,0 +1,18 @@
+Boarding Pass
+
+
+|| Wonder Air Airline||
+
+Name: Munir Hassan
+
+Destination: Pakistan To China
+
+AirCraft Details: 
+	Class: First Class
+	Seat: Window Seat (Seat No. 23) 
+
+Gate No : G6
+
+Boarding Time: 11:33PM (Monday) 18 of May
+
+		XXXXXXXXXXXXXXXXXXXXXXXXXX
